@@ -1,0 +1,25 @@
+{
+  "name": "my-workspace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node build.mjs"
+  },
+  "dependencies": {
+    "@angular/animations": "next",
+    "@angular/cdk": "next",
+    "@angular/compiler": "next",
+    "@angular/core": "next",
+    "@angular/forms": "next",
+    "@angular/material": "next",
+    "@angular/platform-browser": "next",
+    "@angular/platform-browser-dynamic": "next",
+    "@angular/router": "next",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript-5-5": "npm:typescript@5.5.2",
+    "typescript-5-7": "npm:typescript@5.7.2"
+  }
+}
